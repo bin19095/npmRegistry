@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
+<div>
+ <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/HomePage.jpg" height="200" />
+  <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/ViewPage.jpg" height="" width=""/>
+  <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/SearchedPage.jpg" height="" width=""/>
+    <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/searchViewTab.jpg" height="" width=""/>
 
+</div>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
