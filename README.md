@@ -1,8 +1,13 @@
 # React + TypeScript + Vite
+<a href="https://npmpackage.netlify.app/"> Preview the app(Click Here)</a>
 <div>
+ <span>HomePage Preview</span>
  <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/HomePage.jpg" height="200" />
+ <span>After routing inside the viewTab from HomePage</span>
   <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/ViewPage.jpg" height="" width=""/>
+ <span>After input Search for Packages from searchBar</span>
   <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/SearchedPage.jpg" height="" width=""/>
+ <span>View Detail searched Packages in Preview</span>
     <img src="https://github.com/bin19095/npmRegistry/blob/main/src/assets/searchViewTab.jpg" height="" width=""/>
 
 </div>
